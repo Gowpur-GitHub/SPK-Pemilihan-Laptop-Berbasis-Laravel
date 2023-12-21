@@ -9,5 +9,12 @@ use db_spk_wp_laptop for database!!<br>
 testlogin<br>
 00000000<bR>
 
+
+## ScreenShoot 
+![image](https://github.com/Gowpur-GitHub/SPK-Pemilihan-Laptop-Berbasis-Laravel/assets/133848555/b699dbfb-39ce-4300-8804-1c3d17b45e26)
+<br><br>
+![image](https://github.com/Gowpur-GitHub/SPK-Pemilihan-Laptop-Berbasis-Laravel/assets/133848555/44f965f3-0e30-44cf-b780-2eda947df3f8)
+
+
 ## Source Code
 Thanks to : https://github.com/lucidlynxx/spk-wp-pemilihan-monitor
