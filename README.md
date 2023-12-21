@@ -4,10 +4,10 @@ Sistem Pendukung Keputusan (SPK) adalah suatu sistem yang membantu pengambilan k
 
 ## Deskripsi Proyek
 
-Proyek ini menggunakan kerangka kerja Laravel, yang merupakan kerangka kerja PHP yang populer untuk pengembangan aplikasi web. 
-use db_spk_wp_laptop for database!!
-testlogin
-00000000
+Proyek ini menggunakan kerangka kerja Laravel, yang merupakan kerangka kerja PHP yang populer untuk pengembangan aplikasi web. <bR>
+use db_spk_wp_laptop for database!!<br>
+testlogin<br>
+00000000<bR>
 
 ## Source Code
 Thanks to : https://github.com/lucidlynxx/spk-wp-pemilihan-monitor
